@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.14.0](https://www.github.com/googleapis/nodejs-ai-platform/compare/v1.13.0...v1.14.0) (2021-12-02)
+
+
+### Features
+
+* Exposing a field for v1 CustomJob-Tensorboard integration. ([03881ff](https://www.github.com/googleapis/nodejs-ai-platform/commit/03881ff26fbbd72a81cbf0d162178e8d6aadeaac))
+* Tensorboard v1 protos release ([#234](https://www.github.com/googleapis/nodejs-ai-platform/issues/234)) ([03881ff](https://www.github.com/googleapis/nodejs-ai-platform/commit/03881ff26fbbd72a81cbf0d162178e8d6aadeaac))
+
 ## [1.13.0](https://www.github.com/googleapis/nodejs-ai-platform/compare/v1.12.0...v1.13.0) (2021-11-11)
 
 
